@@ -1,0 +1,3 @@
+maxSubSlow    took 1.0778640 seconds.
+maxSubFaster  took 0.0049870 seconds.
+maxSubFastest took 0.0000340 seconds.
