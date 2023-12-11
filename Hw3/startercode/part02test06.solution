@@ -1,0 +1,15 @@
+Matrix   1: 2×9
+Matrix   2: 9×9
+Matrix   3: 9×8
+Matrix   4: 8×4
+Matrix   5: 4×8
+Matrix   6: 8×6
+Matrix   7: 6×3
+    0   162   306   370   434   530   566 
+    0     0   648   612   900  1020   795 
+    0     0     0   288   576   696   552 
+    0     0     0     0   256   384   336 
+    0     0     0     0     0   192   240 
+    0     0     0     0     0     0   144 
+    0     0     0     0     0     0     0 
+The matrices can be multiplied with a minimum of 566 multiplications

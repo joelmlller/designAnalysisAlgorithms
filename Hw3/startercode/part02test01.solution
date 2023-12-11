@@ -1,0 +1,7 @@
+Matrix   1: 8×3
+Matrix   2: 3×2
+Matrix   3: 2×3
+    0    48    90 
+    0     0    18 
+    0     0     0 
+The matrices can be multiplied with a minimum of 90 multiplications

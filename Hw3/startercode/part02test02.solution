@@ -1,0 +1,9 @@
+Matrix   1: 4×9
+Matrix   2: 9×7
+Matrix   3: 7×3
+Matrix   4: 3×2
+    0   252   297   240 
+    0     0   189   168 
+    0     0     0    42 
+    0     0     0     0 
+The matrices can be multiplied with a minimum of 240 multiplications

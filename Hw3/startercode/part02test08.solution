@@ -1,0 +1,7 @@
+Matrix   1: 2×5
+Matrix   2: 5×3
+Matrix   3: 3×3
+    0    30    48 
+    0     0    45 
+    0     0     0 
+The matrices can be multiplied with a minimum of 48 multiplications

@@ -1,0 +1,7 @@
+Matrix   1: 3×4
+Matrix   2: 4×5
+Matrix   3: 5×7
+    0    60   165 
+    0     0   140 
+    0     0     0 
+The matrices can be multiplied with a minimum of 165 multiplications
